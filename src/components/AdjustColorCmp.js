@@ -1,3 +1,4 @@
+/* A reusable component which displays a text label and two buttons which recive function to call onPress */
 import React from "react";
 import {Button, StyleSheet, Text, View } from "react-native";
 
